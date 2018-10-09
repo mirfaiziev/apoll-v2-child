@@ -1,0 +1,14 @@
+/*
+Theme Name:     Apollo
+Theme URI:      http: //example.com/
+Description:    Дочерняя тема для темы Twenty Eleven
+Author:         monk
+Author URI:     http: //example.com/about/
+Template:       twentyeleven
+Version:        3.0
+*/
+@import url("../twentyeleven/style.css");
+
+@import url("./assets/css/my_local_fonts.css");
+
+/* my css
